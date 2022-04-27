@@ -1,2 +1,2 @@
-# ES6-learning-
-Learning ECMASCRIPT 6
+# ES6-learning
+# # Learning ECMASCRIPT 6
