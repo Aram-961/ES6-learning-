@@ -1,2 +1,3 @@
-# ES6-learning
-# # Learning ECMASCRIPT 6
+# Javascript
+# Topics Included Are:
+### ES6
